@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Applications development at Perkins & Will, ArchiDAO, Content Creation at Engineering ArchiTECHure YT channel
+- 🔭 I’m currently working on Applications development at Perkins & Will, ArchiDAO, Content Creation at Engineering ArchiTECHure [YT channel](https://www.youtube.com/channel/UCUvTDoPj6v7uGQy4J8oW4Yw)
 - 🌱 I’m currently learning web3 development, developing quick prototypes and deploying scalable apps.
 - 👯 I’m looking to collaborate on Blockchain and ML project related to AEC.
 - 💬 Ask me about AEC Tech, AI, Blockchain
