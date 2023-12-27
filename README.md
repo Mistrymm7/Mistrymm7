@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Mayur%20Mistry&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Mayur%20Mistry&fontSize=60&animation=twinkling)
 
 
 <!--
