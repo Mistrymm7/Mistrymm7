@@ -45,5 +45,4 @@ Here are some ideas to get you started:
 
 ![Contribution](https://raw.githubusercontent.com/Mistrymm7/Mistrymm7/main/github-metrics.svg)
 
-![Animation](https://raw.githubusercontent.com/Mistrymm7/Mistrymm7/main/github-contribution-grid-snake-dark.svg)
 
