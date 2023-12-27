@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web3 development, developing quick prototypes and deploying scalable apps.
 - 👯 I’m looking to collaborate on Blockchain and ML project related to AEC.
 - 💬 Ask me about AEC Tech, AI, Blockchain
-- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/mayurmistry7/
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Mayur Mistry](https://www.linkedin.com/in/mayurmistry7/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have motorbiked Top 3 World's Highest Motorable Road
 
