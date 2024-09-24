@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 -->
-- 🔭 I’m currently working on Applications development at Perkins & Will, ArchiDAO, Content Creation at [Engineering ArchiTECHure YT channel](https://www.youtube.com/channel/UCUvTDoPj6v7uGQy4J8oW4Yw)
+- 🔭 I’m founder of 3DGuru.ai (AI Interior Design Copilot), ML Applications and Automations Developer for AEC, Content Creation at [Engineering ArchiTECHure YT channel](https://www.youtube.com/channel/UCUvTDoPj6v7uGQy4J8oW4Yw)
 - 😄 Career Highlights and Achivements [Compilations](https://github.com/Mistrymm7/AEC-Design-Technologist/blob/main/achievements/engagements.md)
 - 🌱 I’m currently learning web3 development, developing quick prototypes and deploying scalable apps.
 - 👯 I’m looking to collaborate on Blockchain and ML project related to AEC.
